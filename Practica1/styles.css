@@ -1,0 +1,10 @@
+.body{
+    background-color: aqua;
+    background-image: url(imagenes/fondo.jpeg);
+}
+.div_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
